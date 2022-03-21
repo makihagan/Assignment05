@@ -35,7 +35,7 @@ input {
     width: 180px;
 }
 
-button#btnAdd {
+#submit {
     color: white;
     background-color: rgb(57, 84, 240);
     border: none;
