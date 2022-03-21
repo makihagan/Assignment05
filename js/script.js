@@ -6,7 +6,7 @@ let name = $('name');
 let ext = $('ext');
 let email = $('email');
 let department = $('department');
-let btnAdd = $('btnAdd');
+let submit = $('submit');
 
 empForm.addEventListener('submit', (e) => {
     e.preventDefault();
